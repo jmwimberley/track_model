@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	51.360303942	0.260368842	128.5	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Brands Hatch Indy Origin	20,2

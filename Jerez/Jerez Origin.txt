@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	36.709682413	-6.032504188	40.8	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Jerez Origin	20,2

@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	43.961869269	12.684004394	24.4	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Misano Origin	20,2

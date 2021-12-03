@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	47.220311046	14.766731738	678.1	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Red Bull Ring Origin	20,2

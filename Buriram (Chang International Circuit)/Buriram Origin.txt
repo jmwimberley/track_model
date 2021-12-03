@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	14.957947158	103.085908354	180.8	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Buriram Origin	20,2

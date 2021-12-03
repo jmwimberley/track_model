@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	45.500108409	-73.522721507	10.3	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Montreal Origin	20,2

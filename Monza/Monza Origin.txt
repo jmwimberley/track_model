@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	45.616195478	9.280775701	180.6	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Monza Origin	20,2
