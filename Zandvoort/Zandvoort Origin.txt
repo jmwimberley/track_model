@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	52.388996798	4.540885000	5.0	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Zandvoort Origin	20,2

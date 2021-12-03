@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	52.068263493	-1.023458129	146.3	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Silverstone GP Origin	20,2

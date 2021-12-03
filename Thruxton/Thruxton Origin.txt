@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	51.207666173	-1.608982457	97.0	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Thruxton Origin	20,2

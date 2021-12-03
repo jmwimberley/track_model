@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	50.790650978	12.685514307	326.6	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Sachsenring Origin	20,2

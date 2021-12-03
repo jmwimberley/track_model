@@ -1,0 +1,2 @@
+type	latitude	longitude	altitude (m)	scale	sym	name	ge_hotspot
+W	39.483545600	-0.631053505	149.7	1.1	http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png	Valencia Origin	20,2
